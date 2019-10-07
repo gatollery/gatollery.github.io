@@ -6,6 +6,12 @@ const journal = [
     date: '10 6 19'
   },
   {
+    file: 'jane_couch.jpg',
+    title: 'jane bun mode',
+    description: 'uwu',
+    date: '10 6 19'
+  },
+  {
     file: 'piano_cat.png',
     title: 'piano cat',
     description: 'uwu',
